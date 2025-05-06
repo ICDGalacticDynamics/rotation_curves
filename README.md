@@ -1,2 +1,0 @@
-# rotation_curves
-Data
