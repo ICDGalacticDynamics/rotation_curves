@@ -60,7 +60,7 @@ pip install numpy scipy pandas
 Usage Instructions
 
 Clone the Repository:
-git clone https://github.com/ICDGalacticDynamics.git
+git clone https://github.com/ICDGalacticDynamics
 cd ICDGalacticDynamics
 
 
